@@ -1,5 +1,5 @@
 ## Summary:
-Given a global name, find all xrefs which are contained in an exported function.
+Given a global name in IDA Pro, find all xrefs which are contained in an exported function.
 
 ## How to use:
 1. Click a global name.
